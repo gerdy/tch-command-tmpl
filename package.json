@@ -1,0 +1,14 @@
+{
+  "name": "tch-command-tmpl",
+  "version": "0.0.3",
+  "description": "将dot模板转成seajs的模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tch"
+  ],
+  "author": "gerdy",
+  "license": "ISC"
+}
